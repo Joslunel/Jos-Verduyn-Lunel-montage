@@ -145,6 +145,9 @@ body {
 .work-item-text p {
   margin: 0;
 }
+.work-item-text span.title {
+  font-style: italic;
+}
 .work-item:hover .work-item-text {
   opacity: 1;
 }
