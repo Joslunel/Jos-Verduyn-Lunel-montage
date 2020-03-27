@@ -86,7 +86,7 @@ body {
 .work-items {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(3, 1fr);
+  grid-template-rows: repeat(4, 1fr);
   margin: 3vw auto;
   grid-gap: 2rem;
 }
